@@ -1,0 +1,15 @@
+# Public product page only; application builds belong in GitHub Releases.
+.DS_Store
+*.log
+*.dmg
+*.zip
+.build/
+dist/
+Sources/
+Tests/
+scripts/
+Package.swift
+source/
+backups/
+handoff/
+design/
